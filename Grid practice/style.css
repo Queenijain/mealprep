@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: bisque;
+    
+}
